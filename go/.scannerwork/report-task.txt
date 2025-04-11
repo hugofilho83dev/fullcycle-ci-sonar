@@ -1,0 +1,6 @@
+projectKey=go-project-sum
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=go-project-sum
+ceTaskId=cd7b4ef6-eb15-4601-90e9-746d10a6466a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=cd7b4ef6-eb15-4601-90e9-746d10a6466a
