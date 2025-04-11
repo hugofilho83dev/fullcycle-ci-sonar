@@ -1,0 +1,17 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "sonar-scanner": "sonar-scanner -Dsonar.projectKey=js-sonar -Dsonar.sources=. -Dsonar.host.url=http://localhost:9000 -Dsonar.login=Htaf@2705030912 -Dsonar.password=admin"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "sonar-scanner": "^3.1.0"
+  }
+}
